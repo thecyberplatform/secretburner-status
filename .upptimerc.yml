@@ -3,7 +3,7 @@ repo: secretburner-status
 
 sites:
   - name: Secret Burner UI
-    url: https://secreburner.com/
+    url: https://secretburner.com/
     maxResponseTime: 1000
     expectedStatusCodes:
       - 200

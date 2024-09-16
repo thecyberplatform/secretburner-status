@@ -25,7 +25,6 @@ status-website:
   baseUrl: /
   name: Secret Burner Status
   introTitle: Real-time status and uptime monitoring for secretburner.com.
-  introMessage: This is a our status page which uses **real-time** data from our [GitHub repository](https://github.com/thecyberplatform/secretburner-status). [**Get your own for free**](https://upptime.js.org)
   robotsText: "User-agent: * \n Disallow: /"
   navbar:
     - title: Status

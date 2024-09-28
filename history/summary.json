@@ -22,19 +22,19 @@
     "url": "https://secretburner.com/api/health-check/",
     "icon": "https://icons.duckduckgo.com/ip3/secretburner.com.ico",
     "slug": "secret-burner-api",
-    "status": "degraded",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 415,
-    "timeDay": 1390,
-    "timeWeek": 546,
-    "timeMonth": 415,
-    "timeYear": 415,
+    "status": "up",
+    "uptime": "99.95%",
+    "uptimeDay": "99.41%",
+    "uptimeWeek": "99.92%",
+    "uptimeMonth": "99.95%",
+    "uptimeYear": "99.95%",
+    "time": 405,
+    "timeDay": 998,
+    "timeWeek": 509,
+    "timeMonth": 405,
+    "timeYear": 405,
     "dailyMinutesDown": {
-      "2024-09-28": 0
+      "2024-09-28": 9
     }
   }
 ]

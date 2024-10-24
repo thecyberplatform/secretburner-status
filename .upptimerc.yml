@@ -22,7 +22,6 @@ assignees:
 status-website:
   cname: status.secretburner.com
   logoUrl: https://secretburner.com/icons/favicon-512x512.png
-  baseUrl: /
   name: Secret Burner Status
   introTitle: Real-time status and uptime monitoring for secretburner.com
   robotsText: "User-agent: * \n Disallow: /"

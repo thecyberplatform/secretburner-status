@@ -4,14 +4,14 @@
     "url": "https://secretburner.com",
     "icon": "https://icons.duckduckgo.com/ip3/secretburner.com.ico",
     "slug": "secret-burner-ui",
-    "status": "up",
-    "uptime": "98.95%",
-    "uptimeDay": "58.22%",
-    "uptimeWeek": "71.11%",
-    "uptimeMonth": "93.35%",
-    "uptimeYear": "98.95%",
+    "status": "down",
+    "uptime": "98.96%",
+    "uptimeDay": "58.71%",
+    "uptimeWeek": "71.39%",
+    "uptimeMonth": "93.42%",
+    "uptimeYear": "98.96%",
     "time": 283,
-    "timeDay": 236,
+    "timeDay": 237,
     "timeWeek": 243,
     "timeMonth": 238,
     "timeYear": 283,
@@ -20,8 +20,7 @@
       "2025-03-26": 640,
       "2025-03-25": 721,
       "2025-03-24": 551,
-      "2025-03-23": 389,
-      "2025-03-22": 28
+      "2025-03-23": 389
     }
   },
   {
@@ -41,7 +40,7 @@
     "timeMonth": 639,
     "timeYear": 447,
     "dailyMinutesDown": {
-      "2025-03-27": 1414,
+      "2025-03-27": 1423,
       "2025-03-26": 1440,
       "2025-03-25": 1440,
       "2025-03-24": 1440,

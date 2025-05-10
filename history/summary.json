@@ -6,7 +6,7 @@
     "slug": "secret-burner-ui",
     "status": "up",
     "uptime": "99.20%",
-    "uptimeDay": "69.42%",
+    "uptimeDay": "75.22%",
     "uptimeWeek": "73.03%",
     "uptimeMonth": "93.79%",
     "uptimeYear": "99.20%",
@@ -41,7 +41,8 @@
     "timeMonth": 825,
     "timeYear": 545,
     "dailyMinutesDown": {
-      "2025-05-09": 1439,
+      "2025-05-10": 82,
+      "2025-05-09": 1440,
       "2025-05-08": 1440,
       "2025-05-07": 1440,
       "2025-05-06": 1440,
